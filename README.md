@@ -1,0 +1,4 @@
+## notas generales
+```
+npm install
+```
